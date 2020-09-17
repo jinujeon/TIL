@@ -143,6 +143,14 @@ $ git remote add origin {url}
 
 * 깃아, 원격(remote(내가 쓸 것은 github))저장소로 추가해줘(add). origin이라는 이름으로 URL을
 
+* 원격저장소 삭제를 위해서는 아래 명령어 사용
+
+  ```bash
+  $ git remote rm origin
+  ```
+
+  
+
 ### 2. 원격 저장소 확인하기
 
 ```bash
