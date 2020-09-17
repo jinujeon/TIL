@@ -176,3 +176,4 @@ To https://github.com/ruldy99/git-test.git
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```
 
+* origin 원격저장소의 master 브랜치로 push
